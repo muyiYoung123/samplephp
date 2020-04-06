@@ -4,4 +4,9 @@
   <input name="myName" placeholder="Your Name">
   <button>Go</button>
 </form>
+<form method="POST">
+  <input name="myName" placeholder="Your Name">
+  <button>Go</button>
+</form>
+
 
